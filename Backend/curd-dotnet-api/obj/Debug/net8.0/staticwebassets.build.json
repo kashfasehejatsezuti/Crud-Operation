@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kWYBd4chLuNnHTyQbAqRI0aHjdDdJmBKqwL+Fn+sCsk=",
+  "Source": "curd-dotnet-api",
+  "BasePath": "_content/curd-dotnet-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

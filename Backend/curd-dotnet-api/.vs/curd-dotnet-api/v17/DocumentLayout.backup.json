@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|c:\\users\\sezuti\\onedrive\\desktop\\domeba\\curd operation\\backend\\repos\\curd-dotnet-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|c:\\users\\sezuti\\onedrive\\desktop\\domeba\\curd operation\\backend\\repos\\curd-dotnet-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|c:\\users\\sezuti\\onedrive\\desktop\\domeba\\curd operation\\backend\\repos\\curd-dotnet-api\\migrations\\20240930135520_intial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|solutionrelative:migrations\\20240930135520_intial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|c:\\users\\sezuti\\onedrive\\desktop\\domeba\\curd operation\\backend\\repos\\curd-dotnet-api\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|solutionrelative:data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|c:\\users\\sezuti\\onedrive\\desktop\\domeba\\curd operation\\backend\\repos\\curd-dotnet-api\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|solutionrelative:data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|c:\\users\\sezuti\\onedrive\\desktop\\domeba\\curd operation\\backend\\repos\\curd-dotnet-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|c:\\users\\sezuti\\onedrive\\desktop\\domeba\\curd operation\\backend\\repos\\curd-dotnet-api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|c:\\users\\sezuti\\onedrive\\desktop\\domeba\\curd operation\\backend\\repos\\curd-dotnet-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|c:\\users\\sezuti\\onedrive\\desktop\\domeba\\curd operation\\backend\\repos\\curd-dotnet-api\\curd-dotnet-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89079324-1F0D-460D-A38D-5754862D6E9A}|curd-dotnet-api.csproj|solutionrelative:curd-dotnet-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Data\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "Data\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:19:37.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:46:15.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T14:03:52.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "Data\\Employee.cs",
+              "ToolTip": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\Data\\Employee.cs",
+              "RelativeToolTip": "Data\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:41:47.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T12:58:00.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240930135520_Intial Setup.cs",
+              "DocumentMoniker": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\Migrations\\20240930135520_Intial Setup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240930135520_Intial Setup.cs",
+              "ToolTip": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\Migrations\\20240930135520_Intial Setup.cs",
+              "RelativeToolTip": "Migrations\\20240930135520_Intial Setup.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:55:20.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:52:12.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAywDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:36:00.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "curd-dotnet-api.csproj",
+              "DocumentMoniker": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\curd-dotnet-api.csproj",
+              "RelativeDocumentMoniker": "curd-dotnet-api.csproj",
+              "ToolTip": "C:\\Users\\Sezuti\\OneDrive\\Desktop\\Domeba\\Curd Operation\\Backend\\repos\\curd-dotnet-api\\curd-dotnet-api.csproj",
+              "RelativeToolTip": "curd-dotnet-api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T12:36:57.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
